@@ -8,3 +8,7 @@
 .vcproj
 .bin
 .debug
+
+.csproj
+
+Builds/
